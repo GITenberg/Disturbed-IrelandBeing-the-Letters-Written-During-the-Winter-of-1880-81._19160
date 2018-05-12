@@ -1,0 +1,29 @@
+_repo: Disturbed-IrelandBeing-the-Letters-Written-During-the-Winter-of-1880-81._19160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becker, Bernard Henry
+    alias: Becker, Bernard H. (Henry)
+    birthdate: 1833
+    gutenberg_agent_id: '8512'
+    url: http://www.gutenberg.org/2009/agents/8512
+description: ''
+gutenberg_issued: '2006-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- Ireland'
+- !lcsh 'Ireland -- Social conditions'
+- !lcc 'DA'
+title: 'Disturbed Ireland
+
+  Being the Letters Written During the Winter of 1880-81.'
+url: http://www.gutenberg.org/ebooks/19160
